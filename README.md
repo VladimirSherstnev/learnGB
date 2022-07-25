@@ -1,3 +1,10 @@
-##25.07.22##
+## alert('Hello, World!') ##
 ____
-alert('Hello, World!')
+
+- JavaScript
+- HTML
+- CSS
+____
+
+**Люблю чай с липой, GOT и Warcraft**
+
